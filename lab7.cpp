@@ -93,6 +93,7 @@ int main(){
     t1.insertHeap(2);
     t1.insertHeap(5);
     t1.insertHeap(3); // Initialize
+    //t1.popHeap();
     t1.showHeap();
 
     t1.insertHeap(9); // insert test
